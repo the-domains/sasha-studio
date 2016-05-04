@@ -1,6 +1,6 @@
 name: Sasha Studio
 favicon: null
-layout_spectrum: 0.6932238475419581
+layout_spectrum: 1
 typography_spectrum: 0.030874466290697455
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.750333427451551
-  lightness: 0.2859249433968216
-  saturation: 0.3294088337570429
-  rhythmicContrast: 0.28215228696353734
+    - '#d8d8d8'
+    - '#2d2d2d'
+    - '#7f7f7f'
+    - '#474747'
+    - '#bfbfbf'
+  brandStrength: 1
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
