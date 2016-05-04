@@ -15,8 +15,8 @@ keywords:
   - smaller
   - vanity
 description: 'After seeing a photo of herself and her two sisters, Scout and Tallulah, in the latest issue of Vanity Fair, Rumer Willis took to Instagram to call out the publication and photographer for allegedly Photoshopping her jaw to look smaller. "Any friends of fans of mine who posted this I would appreciate if you took it down," she wrote.'
-datePublished: '2016-05-04T20:22:14.681Z'
-dateModified: '2016-05-04T20:22:01.609Z'
+datePublished: '2016-05-04T20:34:04.515Z'
+dateModified: '2016-05-04T20:33:56.943Z'
 author: []
 related: []
 app_links: []
