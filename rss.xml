@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sasha Studio]]></title>
         <description><![CDATA[Sasha Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sasha-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 20:13:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 20:16:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sasha-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb776aac-1014-4ee0-9ee8-576e7e463747.png">]]></description>
+            <link>https://thegrid.ai/sasha-studio/somos-un-estudio-de-diseno-grafico-ubicado-en-bogota-colomb/index.html</link>
+            <guid isPermaLink="false">d2d5a2aa-d458-4122-80e8-d849f1eff5bc</guid>
+            <pubDate>Wed, 04 May 2016 20:16:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c939185c-d210-4324-bd89-54170ba25051.jpg">]]></description>
-            <link>undefinedcatalina-rubio/index.html</link>
+            <link>https://thegrid.ai/sasha-studio/catalina-rubio/index.html</link>
             <guid isPermaLink="false">4885e32c-128a-4140-b5ca-5518954fbb20</guid>
             <pubDate>Wed, 04 May 2016 20:13:13 GMT</pubDate>
         </item>
