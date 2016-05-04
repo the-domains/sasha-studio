@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.nylon.com'
-  name: NYLON
-  favicon: 'http://www.nylon.com/favicon.ico'
-  domain: www.nylon.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - rumer
   - photoshop
@@ -18,17 +15,21 @@ keywords:
   - smaller
   - vanity
 description: 'After seeing a photo of herself and her two sisters, Scout and Tallulah, in the latest issue of Vanity Fair, Rumer Willis took to Instagram to call out the publication and photographer for allegedly Photoshopping her jaw to look smaller. "Any friends of fans of mine who posted this I would appreciate if you took it down," she wrote.'
-inLanguage: en
+datePublished: '2016-05-04T20:22:14.681Z'
+dateModified: '2016-05-04T20:22:01.609Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.nylon.com/articles/rumer-willis-vanity-fair-photoshop?utm_source=internal&utm_medium=web&utm_campaign=index-page&utm_content=read-more-link'
 title: "Rumer Willis Calls Out 'Vanity Fair' For Photoshopping Her Jaw"
-datePublished: '2016-05-04T20:21:38.476Z'
-dateModified: '2016-05-04T20:20:43.176Z'
-starred: false
 sourcePath: _posts/2016-05-04-rumer-willis-calls-out-vanity-fair-for-photoshopping-her-j.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: NYLON
+  domain: www.nylon.com
+  url: 'http://www.nylon.com'
+  favicon: 'http://www.nylon.com/favicon.ico'
+starred: false
+url: rumer-willis-calls-out-vanity-fair-for-photoshopping-her-j/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
