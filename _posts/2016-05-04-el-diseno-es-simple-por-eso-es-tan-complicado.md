@@ -1,14 +1,16 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T20:09:32.653Z'
-dateModified: '2016-05-04T20:00:21.870Z'
+datePublished: '2016-05-04T20:13:08.341Z'
+dateModified: '2016-05-04T20:12:28.585Z'
 title: '"El diseño es simple, por eso es tan complicado"'
 author: []
+sourcePath: _posts/2016-05-04-el-diseno-es-simple-por-eso-es-tan-complicado.md
 authors: []
 publisher:
   name: null
@@ -16,9 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-el-diseno-es-simple-por-eso-es-tan-complicado.md
-url: el-diseno-es-simple-por-eso-es-tan-complicado/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## "El diseño es simple, por eso es tan complicado"
